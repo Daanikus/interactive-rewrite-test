@@ -7,4 +7,7 @@ is_null($foo);
 // Some comment
 
 // More comments
+
+
+// Another Line
 ?>
