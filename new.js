@@ -1,3 +1,3 @@
 // is_null your comment
-// Some completely legit JavaScript
+// Some great code
 }
