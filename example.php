@@ -5,4 +5,6 @@ $foo = NULL;
 is_null($foo);
 
 // Some comment
+
+// This is a new line
 ?>
