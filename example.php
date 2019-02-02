@@ -6,3 +6,5 @@ is_null($foo);
 
 // Some comment
 ?>
+
+// Add a line
